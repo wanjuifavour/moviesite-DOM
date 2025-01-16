@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "name": "The Last Adventure",
+      "description": "A thrilling journey through uncharted territories.",
+      "type": "HD",
+      "category": "Thriller",
+      "rating": 4.5,
+      "imageUrl": "https://images.app.goo.gl/vmMueorKiwLdwuzU8",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "name": "Steel Fury",
+      "description": "An action-packed saga of a hero rising against all odds.",
+      "type": "Action",
+      "category": "Camera Copy",
+      "rating": 4.2
+    },
+    {
+      "id": "1c80",
+      "name": "The Boys",
+      "description": "actukvyulwfb;",
+      "type": "Action",
+      "category": "HD",
+      "rating": 3.8
+    }
+  ]
+}
