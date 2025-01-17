@@ -9,7 +9,7 @@ const createMovie = async (event) => {
         rating: parseFloat(formData.get('rating')),
         imageUrl: formData.get('imageUrl')
     };
-
+//fetch movies in json form
     try {
         const response = await fetch('http://localhost:3000/movies', {
             method: 'POST',
